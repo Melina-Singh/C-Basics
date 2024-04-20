@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    Vector3 rotation;
+    Vector3 rotation;  //simple
 
     // Start is called before the first frame update
     void Start()
