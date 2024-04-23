@@ -2,15 +2,14 @@
 
 
 /*  
-     in static class instance or object cannt be created and neither
+    1. In static class instance or object cannt be created and neither
     inherited
-    static classes are used as containers for static members like 
+    2. static classes are used as containers for static members like 
     methods, constructors and others
-
-    all the members needs to be static only 
+    3. all the members needs to be static only 
     even if one member is also not static there will be compiling error
 
-koi arko manche chai mero static  clss ko object banauna naskne vayo
+ koi arko manche chai mero static  clss ko object banauna naskne vayo
 nata inherit nai garna sakne vayo
      
      */
