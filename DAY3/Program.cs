@@ -5,7 +5,7 @@ namespace Loops
 {
     class LOOPES
     {
-        static void Main(string[] args)
+        static void Main(string[] args)     
         {
             //Loops  we use this when we know who many iterations we should make
             //forloops
