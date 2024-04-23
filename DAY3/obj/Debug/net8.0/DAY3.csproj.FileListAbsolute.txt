@@ -1,0 +1,14 @@
+D:\Unity\DAY3\bin\Debug\net8.0\DAY3.exe
+D:\Unity\DAY3\bin\Debug\net8.0\DAY3.deps.json
+D:\Unity\DAY3\bin\Debug\net8.0\DAY3.runtimeconfig.json
+D:\Unity\DAY3\bin\Debug\net8.0\DAY3.dll
+D:\Unity\DAY3\bin\Debug\net8.0\DAY3.pdb
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.AssemblyInfoInputs.cache
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.AssemblyInfo.cs
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.csproj.CoreCompileInputs.cache
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.dll
+D:\Unity\DAY3\obj\Debug\net8.0\refint\DAY3.dll
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.pdb
+D:\Unity\DAY3\obj\Debug\net8.0\DAY3.genruntimeconfig.cache
+D:\Unity\DAY3\obj\Debug\net8.0\ref\DAY3.dll
