@@ -8,7 +8,7 @@
     2. static classes are used as containers for static members like 
     methods, constructors and others
     
-    3. all the members needs to be static only 
+    3. all the members needs to be static only              
     even if one member is also not static there will be compiling error
     
     4. no second person can make instance(onject) or inherit from the static field.     
